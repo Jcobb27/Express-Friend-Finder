@@ -1,0 +1,23 @@
+{
+  "name": "express-friend-finder",
+  "version": "1.0.0",
+  "description": "A compatibility-based \"FriendFinder\" app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcobb27/Express-Friend-Finder.git"
+  },
+  "author": "Jennifer Cobb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcobb27/Express-Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/Jcobb27/Express-Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
